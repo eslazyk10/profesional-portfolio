@@ -8,11 +8,12 @@ header{
     padding-right: 30px;
     padding-top: 10px;
     color: #E9D07E;
+    border-top: 3px dotted #E9D07E;
 }
 
 img{
     width: 80%;
-    border: 3px solid #E9D07E;
+    border: 3px dotted #E9D07E;
     display: flex;
     justify-content: center;
     margin-left: 35px;
@@ -28,6 +29,7 @@ img{
     color: #E9D07E;
     font-size: 48px;
     font-weight: bold;
+    border: 4px dotted #E9D07E;
 }
 }
 
@@ -87,4 +89,22 @@ button{
 .home-link:hover{
     color: rgba(69, 58, 148, 0.6);
     text-decoration: none;
+}
+
+footer {
+    padding: 20px;
+    background-color: #453a94;
+    color: #f6f3ff;
+    text-align: center;
+    border-top: 3px dotted #E9D07E;
+}
+
+.outside-links{
+    color: #f6f3ff;
+    text-decoration: none;
+}
+
+.outside-links:hover{
+    color: #f6f3ff;
+    text-decoration: underline;
 }
