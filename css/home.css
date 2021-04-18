@@ -1,10 +1,11 @@
 :root{
     --home-middle-section-bg-text-color: rgb(246, 246, 246);
+    --backup-top-gradient: linear-gradient(to top, #f43b47 0%, #453a94 100%)
 }
 
 .home-top{
-    background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
-    color: white;
+    background-image: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);
+    color: #453a94;
     text-align: center;
     border: 4px solid #453a94;
     padding-top: 80px;
@@ -24,7 +25,7 @@ button{
     border: 2px solid #453a94;
     border-radius: 8px;
     font-weight: bold;
-    margin-top: 60px;
+    margin-top: 40px;
 }
 
 a{
@@ -38,7 +39,7 @@ a:hover{
 }
 
 .home-projects{
-    background-color: darkgrey;
+    background-color: #f6f3ff;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -53,8 +54,9 @@ a:hover{
 }
 
 img{
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     width: 60%;
+    border: 3px solid #f6f3ff;
 }
 @media (max-width:1000px){
     h4{
@@ -97,7 +99,7 @@ img{
 }
 
 .contact-home{
-    background-color: #f43b47;
+    background-image: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);;
     border: 4px solid #453a94;
     text-align: center;
     padding-top: 70px;
