@@ -22,17 +22,21 @@ h1{
 button{
     background-color:#f6f3ff;
     color: #453a94;
-    padding: 10px;
-    border: 2px solid #453a94;
-    border-radius: 8px;
+    padding: 15px;
+    border: 3px solid #453a94;
+    border-radius: 10px;
     font-weight: bold;
     margin-top: 40px;
+}
+
+.homepage-link{
+    font-family: 'Red Hat Display';
+    font-size: 18px;
 }
 
 a{
     color: #453a94;
     text-decoration: none;
-    font-family: 'Red Hat Display';
 }
 
 a:hover{
