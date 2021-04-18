@@ -20,6 +20,7 @@
     margin-left: 160px;
     margin-right: 160px;
     border: 5px dashed #E9D07E;
+    font-family: 'Red Hat Display';
 }
 }
 
@@ -44,6 +45,7 @@
     border: 4px solid  #E9D07E;
     border-radius: 7px;
     margin-bottom: 25px;
+    font-family: 'Red Hat Display';
 }
 
 .project-link:hover{
@@ -77,6 +79,7 @@
     color: white;
     text-decoration: none;
     font-weight: bold;
+    font-family: 'Red Hat Display';
 }
 
 .open-project-links:hover{
@@ -98,6 +101,7 @@ img{
     font-size: 35px;
     font-weight: bold;
     margin-bottom: 25px;
+    font-family: 'Red Hat Display';
 }
 }
 

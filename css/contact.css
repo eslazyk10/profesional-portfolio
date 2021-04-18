@@ -6,9 +6,11 @@ body{
 header{
     text-align: right;
     padding-right: 30px;
-    padding-top: 10px;
+    padding-top: 20px;
     color: #E9D07E;
     border-top: 5px dashed #E9D07E;
+    font-family: 'Homemade Apple';
+
 }
 
 img{
@@ -27,9 +29,10 @@ img{
     margin-top: 120px;
     padding: 60px;
     color: #E9D07E;
-    font-size: 48px;
+    font-size: 42px;
     font-weight: bold;
     border: 5px dashed #E9D07E;
+    font-family: 'Red Hat Display';
 }
 }
 
@@ -42,8 +45,9 @@ img{
     margin-top: 60px;
     padding: 35px;
     color: #E9D07E;
-    font-size: 32px;
+    font-size: 28px;
     font-weight: bold;
+    font-family: 'Red Hat Display';
 }
 }
 
@@ -84,6 +88,7 @@ button{
     color:#453a94;
     text-decoration: none;
     font-weight: bold;
+    font-family: 'Red Hat Display';
 }
 
 .home-link:hover{

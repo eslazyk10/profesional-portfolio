@@ -37,6 +37,7 @@ section{
     margin-top: 35px;
     margin-left: 70px;
     margin-right: 70px;
+    font-family: 'Red Hat Display';
 }
 
 h3{
@@ -69,11 +70,13 @@ button{
     background-color: rgba(69, 58, 148, 0.6);
     padding: 15px;
     border-radius: 10px;
+    
 }
 
 .home-btn{
     color: #f6f3ff;
     text-decoration: none;
+    font-family: 'Red Hat Display';
 }
 .home-btn:hover{
     color: #f6f3ff;
