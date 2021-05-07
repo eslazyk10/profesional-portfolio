@@ -99,18 +99,18 @@ button{
 
 footer {
     padding: 20px;
-    background-color: #453a94;
-    color: #f6f3ff;
+    background-color: #f6f3ff;
+    color: #453a94;
     text-align: center;
     border-top: 5px dashed #E9D07E;
 }
 
 .outside-links{
-    color: #f6f3ff;
+    color: #453a94;
     text-decoration: none;
 }
 
 .outside-links:hover{
-    color: #f6f3ff;
+    color: #453a94;
     text-decoration: underline;
 }

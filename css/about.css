@@ -44,11 +44,21 @@ h3{
     color: #E9D07E;
 }
 
-h1{
+@media (min-width:400px) {
+    h1{
     font-size: 48px;
     font-weight: bold;
     color: #E9D07E;
 }
+}
+@media (max-width:400px) {
+    h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #E9D07E;
+}
+}
+
 
 @media (min-width:768px) {
     p{
@@ -84,14 +94,14 @@ button{
 }
 
 footer{
-    padding-top: 45px;
-    background-color: rgba(69, 58, 148, 0.6);
+    padding-top: 15px;
+    background-color: #f6f3ff;
     border-top: 4px solid #E9D07E;
-    color: #f6f3ff;
+    color: #453a94;
 }
 
 .contact-links{
-    color: #f6f3ff;
+    color: #453a94;
     text-decoration: none;
 }
 .contact-links:hover{
